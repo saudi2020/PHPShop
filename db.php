@@ -1,8 +1,8 @@
 <?php
 
 $servername = "mysql-shop";
-$username = "root";
-$password = "";
+$username = "myshopuser";
+$password = "passw0rd";
 $db = "shopdb";
 
 // Create connection
